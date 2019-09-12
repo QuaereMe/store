@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Literally Cant"
-description: "Gregorian Chant swag"
+description: "Gregorian Chant Swag"
 category: articles
 ---
 
