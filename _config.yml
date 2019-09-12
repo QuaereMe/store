@@ -1,1 +1,6 @@
 remote_theme: QuaereMe/Balzac-for-Jekyll
+
+links:
+  - title: Blog
+    url: https://quaere.me
+    external: true
