@@ -1,4 +1,3 @@
-## Lofty Ditherings
-The amateur musings of a musical amateur
+## Quaere Me [Store]
+This is the store.
 
-### Coming soon
