@@ -4,3 +4,11 @@ links:
   - title: Blog
     url: https://quaere.me
     external: true
+
+
+collections_dir: collections
+
+collections:
+  literally_cant:
+    output: true
+
